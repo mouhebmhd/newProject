@@ -2,6 +2,6 @@
 an ecommerce website
 > Text that is a quote
 - [x] brea³
-- []¯ mil¨
+- [] mil¨
 - [] egg§
 - [x]  teabags

@@ -6,5 +6,4 @@ an ecommerce website
 - [ ] egg§
 - [x]  teabags
 ---
-***
----
+
